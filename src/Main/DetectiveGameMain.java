@@ -18,7 +18,7 @@ import SuspectClasses.VictorBlackwood;
 
 import java.util.*;
 
-//for the commit
+//for the pull request
 
 public class DetectiveGameMain {
     public static void main(String[] args) {
