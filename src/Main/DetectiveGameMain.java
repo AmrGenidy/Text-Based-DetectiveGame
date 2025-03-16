@@ -18,6 +18,8 @@ import SuspectClasses.VictorBlackwood;
 
 import java.util.*;
 
+//for the commit
+
 public class DetectiveGameMain {
     public static void main(String[] args) {
         Mansion mansion = new Mansion();
